@@ -1,0 +1,17 @@
+# The Infiltrator - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Playwright for browser automation
+playwright==1.40.0
+
+# HTTP requests and API calls
+requests==2.31.0
+
+# Async support
+asyncio-socks==0.8.4
+
+# SOCKS proxy support
+python-socks[asyncio]==2.4.3
+
+# Optional: Enhanced request handling
+urllib3==2.1.0
